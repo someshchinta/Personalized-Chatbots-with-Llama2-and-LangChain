@@ -18,7 +18,7 @@ Post-processing: Formats and presents the answers along with the sources used.
 Environment Setup: Ensure you have the required Python environment set up with the necessary dependencies installed.
 Model Selection: Choose the desired language model from the available options (wizardLM, llama2-7b-chat, llama2-13b-chat, or mistral-7B).
 
-Run the Script: Execute the Python script, providing your questions as input.
+Run the Script: Execute the **q-a-chatbot-with-llama2.ipynb** notebook, providing your questions as input.
 
 Get Answers: The system will generate answers based on the provided questions, citing relevant passages from the Harry Potter books.
 
