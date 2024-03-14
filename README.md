@@ -33,6 +33,7 @@ Get Answers: The system will generate answers based on the provided questions, c
 "Give me 5 examples of cool potions and explain what they do."
 
 **Dependencies**
+
 LangChain: A library for natural language processing tasks.
 
 Hugging Face Transformers: Provides pre-trained models and tools for NLP tasks.
@@ -41,6 +42,7 @@ FAISS: A library for efficient similarity search and clustering of dense vectors
 
 
 **Credits**
+
 This script was developed as part of a project to explore question answering systems and NLP techniques.
 
 Inspired by the Harry Potter book series by J.K. Rowling.
